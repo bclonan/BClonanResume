@@ -10,6 +10,18 @@ title: Projects
 
 [[toc]]
 
+## Code Mantra
+
+---
+
+## Languages
+
+---
+
+## Technology Interests
+
+---
+
 ## Feature Projects
 
 ---

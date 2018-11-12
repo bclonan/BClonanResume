@@ -1,7 +1,6 @@
 ---
-title: Style Guide
+title: Gallery
 ---
-
 
 # Style Guide
 

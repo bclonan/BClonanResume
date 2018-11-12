@@ -121,6 +121,9 @@ function projectsSidebar(title) {
     collapsable: false,
     children: [
       '',
+      'featured',
+      'mentions',
+      'blocks',
     ]
   }]
 }
