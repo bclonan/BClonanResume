@@ -14,6 +14,8 @@ title: Research
 
 ### Light Before Sound
 
+**//Todo update to results of study I conducted on 500+ university students**
+
 #### **Topic**
 
 Traversing through the vast expansion of neural networks in the human brain is an adventure pioneering scientists are on every day. With each new explanation a world of possibilities are open. One specific area of study that has helped us understand the way humans thrive, and survive is how we communicate. When communicating humans use many parts of the brain; for example try to say the word “cat” allowed. Completing such a simple task as speaking a word allowed is a testament to the complexity of the brain; first information must travel to the primary visual cortex, than the information is sent to the posterior speech area, after it takes a ride along the arcuate fasciculus to Broca’s area, finally making its way to the primary motor cortex, and out of your mouth all in a matter of milliseconds! Mapping the way we process sound and communicate have aided the healthcare field in finding new treatments for patients suffering for many different types of neurological disorders.
@@ -48,22 +50,43 @@ There are three types of stimuli used. For condition one the audio stimuli consi
 
 A repeated measure design with the same participant completing all of the conditions will be used. The words that will be used in all of the tasks will be chosen from the same ( dog, cat, rat, tree, into, nose, without, grandmother, potato, water, telephone, February, desk, jump, light, pencil, funny, triangle, underwater, independent, march, grade, starfish, eleven, sailboat, candle, watermelon, pumpkin, lamp, hat, basketball, red, nature, chew, stick, attack, yawn, sleeping, swimming, windfall ) and will be randomized . The independent measure in the first condition was the number of syllables in the words being spoken varying from 1-4 syllables per word. In the first condition the dependent variable was measuring accuracy, response time spent on the second screen shown while picking the number of syllables defined as time (in seconds). The independent measure in the second condition was the number of syllables displayed in the flashed word. The dependent variable was measuring accuracy, and response time spent on the second screen. The third independent variable will be number of syllables in both the audio/visual flashed word. The dependent variable will be accuracy, and response time spent on the second screen. The fourth independent variable is presenting an unpaired or paired form of the visual and auditory word at the same time. The dependent variable in the fourth condition is measuring accuracy and time of both answers.
 
-#### **Design**
+#### **Procedure**
 
-#### **Design**
+In the first audio procedure each trail begins with a .5 second pause followed by an audio presentation of a word once for 2.5 seconds. After the word is presented there is another an average of 10-20 millisecond pause followed by the screen presenting the list of the number of syllables to choose ranging from 1-4. After a keypress 1-4 indicating the number of syllables in the word a blank screen for 100 milliseconds would be displayed and the second trial would begin. The audio process was completed 27 times. After a 7 minute break the second visual session was began. In the second visual condition each trail begins with a 100 millisecond pause followed by a visual presentation of a word once for 2.5 seconds in the center of the screen. After the word is presented there is pause followed by the screen presenting the list of the number of syllables to choose ranging from 1-4. After a keypress 1-4 indicating the number of syllables in the word a blank screen for 100 milliseconds would be displayed and the second trial would begin. The visual condition was completed 27 times. After a 7 minute break the final audio/visual session was began. In the third audio/visual condition each trail begins with a set of instructions with no time limit. After the participant presses any key the first trial begins with a visual and audio presentation of a word once for 2.5 seconds in the center of the screen with audio of the word playing at the same time. After the word is presented another presents the list of the number of syllables to choose ranging from 1-4. After a keypress 1-4 indicating the number of syllables in the word a blank screen for 100 milliseconds would be displayed and the second trial would begin. The audio/visual condition was completed 27 times. The final condition will be an unpaired or paired matchup of a spoken and written word produced at the same time random pairing. First the screen will display both the written and spoken word for 2.5 seconds. Than the participant will choose the spoken words number of syllables with keys 1-4 directly after a syllable count is chosen another screen will come up and the participant will be prompted to choose the audio word by pressing A = 1 syllable b= 2 syllable c= 3 syllables d = 4 syllables. These trials will happen 27 times.
 
-#### **Design**
+#### **Results**
+
+**The purpose of this experiment was show that the visual component of language is part of the hierarchical production and comprehension of language both auditory and visually.**
+
+#### **Description of results**
+
+Average response times and accuracy percentages were taken from each trial. Results from the first two conditions (audio and visual only) are being used as a baseline comparison to the paired presented audio visual condition. In table 1 response times, and accuracy percentages were calculated for each trial. In the first condition audio only presented the participant scored 92.59% accuracy with the fastest average response time of .7664 seconds.
+In the second condition visual only the participant scored the highest accuracy of 100% correct responses, but with the slowest response time of .9978 seconds. In the third condition audio and visual was presented together with matching words, the participant scored the lowest accuracy of 88.88% correct and .7737 seconds response time. In the fourth condition where audio and visual were presented together but with random pairing of words the accuracy for visual was 81.48% with an average response time of 3.3702. The accuracy for audio was 88.88% with an average response time of 2.810.
+
+#### **Table 1**
+
+_Accuracy of and average response times measured under three conditions: Audio stimuli presented alone, visual presented alone, both presented simultaneously with matching words._
+
+| Condition                                  | Accuracy | Average Response time in seconds |
+| :----------------------------------------- | :------: | -------------------------------: |
+| Audio only presented                       |  92.59%  |                          0.7664  |
+| Visual only presented                      |   100%   |                           0.9978 |
+| Audio Visual Paired same time presentation |  88.88%  |                          0.77374 |
+
+Furthermore, result times were compared to the other conditions and their difference was calculated (table 2). When comparing audio solo to visual solo, visual solo to paired, audio solo to pair there was no statistical significance. However, when comparing audio solo to mixed audio, visual solo to mix visual, and paired to mix added the difference was considered to be extremely statistically significant.
 
 #### **Table 2 : Reaction times compared**
 
-| Reaction Time Compared    | Show statistical significance (yes, no) | Null hypothesis there is no difference between response times. |
-| :------------------------ | :-------------------------------------: | -------------------------------------------------------------: |
-| Audio solo vs visual solo |                  None                   |                                          t(26)=0.07, .94 > .05 |
-| Visual solo vs paired     |                  None                   |                                        t(26)=-0.82, 0.41 > .05 |
-| Audio solo vs paired      |                  None                   |                                         t(26)=-8.23, 1.02> .05 |
-|                           |                                         |                                                                |
-|                           |                                         |                                                                |
-|                           |                                         |                                                                |
+| Reaction Time Compared      | Show statistical significance (yes, no) | Null hypothesis there is no difference between response times. |
+| :-------------------------- | :-------------------------------------: | -------------------------------------------------------------: |
+| Audio solo vs visual solo   |                  None                   |                                          t(26)=0.07, .94 > .05 |
+| Visual solo vs paired       |                  None                   |                                        t(26)=-0.82, 0.41 > .05 |
+| Audio solo vs paired        |                  None                   |                                         t(26)=-8.23, 1.02> .05 |
+| Audio solo vs. mixed audio  |    Extreme statistically significant    |                                          t(26)=8.23, p < .0001 |
+| Visual solo vs mixed visual |    Extreme statistically significant    |                                           t(26)=6.54, p <0.001 |
+| Paired vs. mixed            |    Extreme statistically significant    |                                           t(26)=-9.96,p <.0001 |
+
+**note for paired vs mixed, the mixed audio and mixed visual were added and the average was taken. **
 
 #### **Interpretation based on key findings.**
 
