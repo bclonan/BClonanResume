@@ -1,7 +1,7 @@
 {
-  "name": "tdocs",
+  "name": "bclonan",
   "version": "1.0.0",
-  "description": "Project Package for GovDocs provided by Phylat Technical Group",
+  "description": "Bradley Clonan Portfolio",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/possibly1/TDocs.git"
+    "url": "git+https://github.com/possibly1/BClonanResume.git"
   },
-  "author": "Phylat Technical Group",
-  "license": "ISC",
+  "author": "Bradley Clonan",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/possibly1/TDocs/issues"
+    "url": "https://github.com/possibly1/BClonanResume/issues"
   },
-  "homepage": "https://github.com/possibly1/TDocs#readme"
+  "homepage": "https://github.com/possibly1/BClonanResume#readme"
 }

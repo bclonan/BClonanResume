@@ -1,11 +1,11 @@
 ---
 home: true
-actionText: Get to the Fun area
-actionLink: /platform/
+actionText: See the projects
+actionLink: /projects/
 features:
-- title: Project Portal
-  details: Find the project scope, project updates, and information on the technology stack here.
-- title: Documents
-  details: Project pertinant documentation, contracts, and legal documents.
-footer: Prepared by Pyhlat Technical Group
+  - title: About Me
+    details: Learn a bit more about Brad 'beyond' the keyboard.
+  - title: Projects
+    details: Works in progress, technologies, and platforms I've launched.
+footer: Prepared by Bradley Clonan
 ---
