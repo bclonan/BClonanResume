@@ -9,3 +9,7 @@ While I am no _Steven Spielberg_ creating video content ranging from promotional
 ## Table of contents
 
 [[toc]]
+
+## Table of contents
+
+[[toc]]
