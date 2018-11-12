@@ -106,11 +106,7 @@ function aboutSidebar(title) {
     collapsable: false,
     children: [
       '',
-      'timeline',
-      'proposedTechnologies',
-      'styleGuide',
-      'functionality',
-      'roadMap',
+      'research',
     ]
   }]
 }
@@ -124,6 +120,20 @@ function projectsSidebar(title) {
       'featured',
       'mentions',
       'blocks',
+    ]
+  }]
+}
+
+function marketingSidebar(title) {
+  return [{
+    title,
+    collapsable: false,
+    children: [
+      '',
+      'copy',
+      'ads',
+      'videos',
+      'gallery',
     ]
   }]
 }
