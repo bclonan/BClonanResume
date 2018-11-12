@@ -35,9 +35,6 @@ _Xyz Leads is the leading 'All-in-One' platform for building and maintaining a o
 - Javascript
 - CSS
 
-During this stage, we will build wireframes or working demos based off of the platform inspirations, client suggestions, needs, and professional experience. During this stage,we encourage soft changes to core functionalities and constructive criticism.
-Upon completion, phylat will provide a final wireframe/interactive demo based for approval before moving on to any serious development.
-
 **Links**
 
 ---
@@ -50,16 +47,20 @@ Upon completion, phylat will provide a final wireframe/interactive demo based fo
 
 #### **Description**
 
-_Xyz Leads is the leading 'All-in-One' platform for building and maintaining a online presence for your small business. There is no learning curve with xyz leads and you can immediately start producing content, and building websites with no experience necessary._
+_The next Iteration of the xyz leads platform consists of a supercharged list of tools aimed at delivering everything one needs to market, sell, collaborate, and deliver online._
 
 #### **Features**
 
-- Website Builder
-- Email Builder
-- Smart Forms
-- Data Management
-- Image Creation
-- Leads Data Capture Bookmarklet
+- Funnels
+- Bots
+- Motion Forms
+- CMS Everything
+- Site Widgets
+- Collaborate
+- Organize
+- Monetize
+- Integrations
+- Multi Platform
 
 #### **Stack**
 
@@ -76,9 +77,6 @@ _Xyz Leads is the leading 'All-in-One' platform for building and maintaining a o
 - FireStore
 - Java
 
-During this stage, we will build wireframes or working demos based off of the platform inspirations, client suggestions, needs, and professional experience. During this stage,we encourage soft changes to core functionalities and constructive criticism.
-Upon completion, phylat will provide a final wireframe/interactive demo based for approval before moving on to any serious development.
-
 **Links**
 
 ---
@@ -91,7 +89,7 @@ Upon completion, phylat will provide a final wireframe/interactive demo based fo
 
 #### **Description**
 
-_Xyz Leads is the leading 'All-in-One' platform for building and maintaining a online presence for your small business. There is no learning curve with xyz leads and you can immediately start producing content, and building websites with no experience necessary._
+_Load in your website or emails. Click Elements. Control styles, text, and more from your dashboard or on the go through the mobile app._
 
 #### **Features**
 
@@ -110,24 +108,17 @@ _Xyz Leads is the leading 'All-in-One' platform for building and maintaining a o
 - CSS
 - Express
 
-During this stage, we will build wireframes or working demos based off of the platform inspirations, client suggestions, needs, and professional experience. During this stage,we encourage soft changes to core functionalities and constructive criticism.
-Upon completion, phylat will provide a final wireframe/interactive demo based for approval before moving on to any serious development.
-
 **Links**
 
 ---
-
-[Beta Signup](https://leadsbeta.com)
 
 **Code Sample Available upon request**
 
 ### XPoseExpos
 
----
-
 #### **Description**
 
-_Xyz Leads is the leading 'All-in-One' platform for building and maintaining a online presence for your small business. There is no learning curve with xyz leads and you can immediately start producing content, and building websites with no experience necessary._
+_Xpose Expos is a platform that allows verified trade show exhibitors gain the most value from their booths._
 
 #### **Features**
 
@@ -144,20 +135,43 @@ _Xyz Leads is the leading 'All-in-One' platform for building and maintaining a o
 - Firestore
 - Javascript
 
-During this stage, we will build wireframes or working demos based off of the platform inspirations, client suggestions, needs, and professional experience. During this stage,we encourage soft changes to core functionalities and constructive criticism.
-Upon completion, phylat will provide a final wireframe/interactive demo based for approval before moving on to any serious development.
-
 **Links**
 
 ---
 
-[Beta Signup](https://leadsbeta.com)
+[WIP XPoseExpos](https://xposeexpos.com/)
 
 **Code Sample Available upon request**
 
 ### Phylat CRM
 
+#### **Description**
+
+_In company project used to manage companies leads, and business_
+
+#### **Features**
+
+- JSON Lead funnel forms
+- Email Integrations
+- Company Boards
+- Company Requests
+- Employee Directory
+- Social Post Management
+
+#### **Stack**
+
+- Vue
+- Firestore
+- HTML
+- Bulma
+- Firestore
+- Javascript
+
+**Links**
+
 ---
+
+**Code Sample Available upon request**
 
 ## Data Drivers
 
@@ -165,20 +179,23 @@ Upon completion, phylat will provide a final wireframe/interactive demo based fo
 
 #### **Description**
 
-_Xyz Leads is the leading 'All-in-One' platform for building and maintaining a online presence for your small business. There is no learning curve with xyz leads and you can immediately start producing content, and building websites with no experience necessary._
+_Golang middleman server used to create reusable functions between any api, any database, and any service._
 
 #### **Features**
 
-- Website Builder
-- Code Fixer
-- Mobile App
+- Payment Processing
+- Cross Site HTML Sending
+- Third Party Slack Notifications
 
 #### **Stack**
 
 - Go
 
-During this stage, we will build wireframes or working demos based off of the platform inspirations, client suggestions, needs, and professional experience. During this stage,we encourage soft changes to core functionalities and constructive criticism.
-Upon completion, phylat will provide a final wireframe/interactive demo based for approval before moving on to any serious development.
+**Links**
+
+---
+
+**Code Sample Available upon request**
 
 ## Learning
 
@@ -202,19 +219,31 @@ The XYZ Leads tutorial center is an ongoing list of tutorials ranging from softw
 
 **Code Sample Available upon request**
 
+### XYZ Platform Docs
+
+#### **Description**
+
+The XYZ Leads platform docs is a readable way to inform future developers or collaborators how to develop the xyz leads platform.
+
+#### **Stack**
+
+- Vuepress
+- vue
+- Sass
+
+**Links**
+
+---
+
+**Access Available upon request**
+
 ## Extra Web Pages
 
 ### Phylat Homepage
 
 #### **Description**
 
-_Xyz Leads is the leading 'All-in-One' platform for building and maintaining a online presence for your small business. There is no learning curve with xyz leads and you can immediately start producing content, and building websites with no experience necessary._
-
-#### **Features**
-
-- Website Builder
-- Code Fixer
-- Mobile App
+_Phylat is a do it all software developement company._
 
 #### **Stack**
 
