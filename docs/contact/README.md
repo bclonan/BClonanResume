@@ -2,10 +2,10 @@
 title: Contact
 ---
 
-# Email
+**Email**
 
-contact@phylat.com
+clonanxyz@gmail.com
 
-# Phone
+**Phone**
 
-201. 299. 5400
+732-476-9555

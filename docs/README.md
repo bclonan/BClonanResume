@@ -8,6 +8,6 @@ features:
   - title: Projects
     details: Works in progress, technologies, and platforms I've launched.
   - title: Marketing
-    details: At times being a devloper requires writing copy, creating videos, or managing ads see samples here.
+    details: As a founder I have frequently handled all marketing aspects of running an online business as well.
 footer: Prepared by Bradley Clonan
 ---

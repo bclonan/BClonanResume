@@ -1,10 +1,10 @@
 ---
-title: Gallery
+title: Reusable Snippets
 ---
 
 # Style Guide
 
-Visit this location to preview, comment, and interact with platform styles as they are developed.
+//Todo Add samples of over 400 reusable html blocks and code snippets
 
 ## Table of contents
 
