@@ -1,0 +1,27 @@
+{
+  "name": "tdocs",
+  "version": "1.0.0",
+  "description": "Project Package for GovDocs provided by Phylat Technical Group",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possibly1/TDocs.git"
+  },
+  "author": "Phylat Technical Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/possibly1/TDocs/issues"
+  },
+  "homepage": "https://github.com/possibly1/TDocs#readme"
+}
