@@ -10,7 +10,7 @@ title: Projects
 
 [[toc]]
 
-## 'Road' to Code
+## Feature Projects
 
 ---
 
@@ -33,7 +33,7 @@ Build a fully functional multi-user document creating software, extendable, and 
   - ex. csv files
 - Create brand/template/block profiles within user account to reuse
 
-## Inspiration
+## Honerable Mentions
 
 ---
 
@@ -41,7 +41,7 @@ Build a fully functional multi-user document creating software, extendable, and 
 - Survey Monkey
 - Bizplan
 
-## Knowledge is Power
+## HTML Block Gallery
 
 ---
 
